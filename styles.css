@@ -10,3 +10,55 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #2B4E80;
+}
+
+.question-box {
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  background-color: #E6ECF4;
+}
+
+.answer-button {
+  background: #2B4E80;
+  color: white;
+  width: 92%;
+  height: 10%;
+}
+
+.ask-box {
+  width: 90%;
+  height: 8%;
+  text-align: center;
+  color: grey;
+}
+
+.question-box {
+
+}
+
+img {
+  align-items: flex;
+}
+
+.clear-button {
+  flex-direction: column;
+  background-color:#D0CDCD;
+  margin: 59px;
+}
+
+.ball-photo {
+  height: 150px
+}
+
+.input-box {
+ display: flex;
+ flex-direction: row;
+}

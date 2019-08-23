@@ -61,4 +61,9 @@ img {
 .input-box {
  display: flex;
  flex-direction: row;
+ width: 50%;
+}
+
+.woody {
+width:50%
 }
